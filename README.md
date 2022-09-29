@@ -1,2 +1,2 @@
 My first readme
-Code is so cool!
+Code is so cool! :)
